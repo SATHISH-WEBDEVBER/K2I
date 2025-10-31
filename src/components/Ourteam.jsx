@@ -3,15 +3,15 @@ import "../assets/Css/Ourteam.css";
 import image from "../assets/Images/img.png"
 
 const OurteamData = [
-  // {
-  //   name: "Immanuel S",
-  //   role: "Visual Designer",
-  //   imgUrl: image,
-  //   email: "mailto:leroy@example.com",
-  //   twitter: "https://twitter.com/leroy",
-  //   linkedin: "https://linkedin.com/in/leroy",
-  //   github: "https://github.com/leroy",
-  // },
+  {
+    name: "Immanuel S",
+    role: "Visual Designer",
+    imgUrl: image,
+    email: "mailto:leroy@example.com",
+    twitter: "https://twitter.com/leroy",
+    linkedin: "https://linkedin.com/in/leroy",
+    github: "https://github.com/leroy",
+  },
   {
     name: "Meganadhan",
     role: "Frontend Developer",
