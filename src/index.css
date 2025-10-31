@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil&display=swap');
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e0f7f6;
+  font-family: 'Poppins', 'Noto Sans Tamil', sans-serif;
+}
+
+.fade {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.fade.show {
+  opacity: 1;
+}
+
